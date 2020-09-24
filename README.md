@@ -6,7 +6,7 @@ In this repository you are able to find the actual functions that are used to do
 as well as the pickles that are used to generate the graphs. As the full analysis took several hours,
 I created pickles to be able to properly store the results in an efficient way.
 
-The graph shown below explains the method uses and explanation for some adjustments to the data.
+The table shown below explains the method uses and explanation for some adjustments to the data.
 
 | Variable  | Description  |
 | --------- | ------------ |
@@ -16,4 +16,7 @@ The graph shown below explains the method uses and explanation for some adjustme
 | Returns   | Returns are calculated by the "New minus Old" principle. You invested a total of 120 * $100,- which is compared to the accumlated value at the end of the 10 year period.
 | Graphs    | The graphs aggregate the returns and calculate the median values to give an average of the total return in the 10 year period. Quantiles are then calculated based on these median returns.
 
+This results in the two graphs below.
 
+[](graphs/Month Days Graph.png)
+[](graphs/Random Days Graph.png)
