@@ -18,5 +18,6 @@ The table shown below explains the method uses and explanation for some adjustme
 
 This results in the two graphs below.
 
-[](graphs/Month Days Graph.png)
-[](graphs/Random Days Graph.png)
+![](https://raw.githubusercontent.com/JerBouma/WhenShouldYouInvest/master/graphs/Month%20Days%20Graph.png?token=ALBVHJBSYA7EG3JDSN3UNO27NSYOI)
+
+![](https://raw.githubusercontent.com/JerBouma/WhenShouldYouInvest/master/graphs/Random%20Days%20Graph.png?token=ALBVHJAVXLMPD3TRSVD36ZK7NSYPO)
