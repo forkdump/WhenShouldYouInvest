@@ -12,9 +12,3 @@ The table shown below explains the method uses and explanation for some adjustme
 | Trades    | Trades occurred on the specific day and are assumed to happen straight away. This means you are also affected by the return that day. This results in a total of 120 trades in a 10 year period. I make the assumption that you are able to invest the full amount even though the ticker is priced higher. As there are many types of ETFs available for the indices with different (lower) prices it is reasonable to assume that you can consume much of the $100,- you invest.
 | Returns   | Returns are calculated by the "New minus Old" principle. You invested a total of 120 * $100,- which is compared to the accumlated value at the end of the 10 year period.
 | Graphs    | The graphs aggregate the returns and calculate the median values to give an average of the total return in the 10 year period. Quantiles are then calculated based on these median returns.
-
-This results in the two graphs below.
-
-![](https://raw.githubusercontent.com/JerBouma/WhenShouldYouInvest/master/graphs/Month%20Days%20Graph.png?token=ALBVHJBSYA7EG3JDSN3UNO27NSYOI)
-
-![](https://raw.githubusercontent.com/JerBouma/WhenShouldYouInvest/master/graphs/Random%20Days%20Graph.png?token=ALBVHJAVXLMPD3TRSVD36ZK7NSYPO)
