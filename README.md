@@ -1,5 +1,5 @@
 # When Should You Invest?
-This repository features the data and methods used that leads to the graphs and conclusions of [this Medium article]().
+This repository features the data and methods used that leads to the graphs and conclusions of [this Medium article](https://medium.com/@jer.bouma/when-should-you-invest-41fae0d25c85)
 
 In this repository you are able to find the functions that are used to do the calculations as well as the pickles that are used to generate the graphs. As the full analysis took several hours, I created pickles to be able to properly store the results in an efficient way.
 
